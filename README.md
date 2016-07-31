@@ -18,3 +18,6 @@ Problem:
 Some rental information is available but is scattered e.g. earthquake-stickered properties, some information which renters would be looking for is not available until you visit a property e.g. cold or dark, and still more information is not available until you have been in a property for some time e.g. the helpfulness of the landlord, damp conditions or noisy neighbors.
 
 Through a qualitative survey, our own experience and anecdotal stories of target customers, we have heard about the lack of transparency on the safety and affordability of rental properties at a local and national level.
+
+Code
+iPython notebooks are in ipython_notebook section along with data files
